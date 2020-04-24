@@ -1,0 +1,14 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+th {
+    text-align: center;
+    font-size: large;
+}
